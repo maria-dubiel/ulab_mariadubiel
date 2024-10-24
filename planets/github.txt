@@ -1,0 +1,22 @@
+1. pwd
+2. ls, we should see patterns.txt and symmetry.py
+3. nano patterns.txt or vim patterns.txt
+4. cat patterns.txt
+5. (BONUS)
+6. git mv patterns.txt ../math/calculus/
+7. rm triangle.txt
+8. cd ../math/
+9. git init
+10. git remote add origin https://github.com/math/ ????
+11. cp symmetry.txt, git add symmetry.txt, git commit ????
+12. git status, yes because we commited it
+13. git add symmetry.txt, git add .
+14. no, not until we commit it
+15. git commit -m"commited files"
+16. git push origin main, main because we have not commited any new branches yet
+17. git branch applied_math
+18. git checkout applied_math
+19. git add ., git commit, git push origin math
+20. git branch, applied_math
+22. (BONUS)
+23. Screenshot of tree diagram is saved within the planets branch
