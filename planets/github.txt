@@ -3,12 +3,12 @@
 3. nano patterns.txt or vim patterns.txt
 4. cat patterns.txt
 5. (BONUS)
-6. git mv patterns.txt ../math/calculus/
+6. mv patterns.txt ../math/calculus/
 7. rm triangle.txt
 8. cd ../math/
 9. git init
-10. git remote add origin https://github.com/math/ ????
-11. cp symmetry.txt, git add symmetry.txt, git commit ????
+10. git remote add origin https://github.com/math/ 
+11. cp symmetry.txt ../math/, git add symmetry.txt, git commit
 12. git status, yes because we commited it
 13. git add symmetry.txt, git add .
 14. no, not until we commit it
